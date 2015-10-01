@@ -1,21 +1,22 @@
 Sidecar = {
-Date = "2015-10-01T18:33:08.3434880Z",
+Date = "2015-10-01T18:44:16.3046915Z",
 Software = "DxO OpticsPro",
 Source = {
+CafId = "C17310b",
 Items = {
 {
 Albums = "",
-CreationDate = "2015-10-01T18:33:08.3204873Z",
-ModificationDate = "2015-10-01T18:33:08.3424882Z",
-Name = "PA012062.ORF",
+CreationDate = "2015-10-01T18:33:06.7123977Z",
+ModificationDate = "2015-10-01T18:44:16.3036914Z",
+Name = "PA012109.ORF",
 OutputItems = {
 {
-CreationDate = "2015-10-01T14:27:57.6620248Z",
-Name = "PA012062_DxO.jpg",
+CreationDate = "2015-10-01T18:44:13.0135075Z",
+Name = "PA012109_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "81FD71C2-5957-4ABA-B85A-CF8C82E7AB93",
+Uuid = "552C67E7-00E5-4E5D-9784-19BC593F73E1",
 }
 ,
 }
@@ -308,26 +309,18 @@ ExposureActive = false,
 }
 ,
 Overrides = {
-CropAuto = false,
-CropRect = {
-0.071872949600219727,
-0,
-0.91896641254425049,
-0.93611723184585571,
-}
-,
 }
 ,
 Version = "10.5",
 }
 ,
 ShouldProcess = 2,
-Uuid = "F0BCA445-8A93-4524-BC2B-870C04F398F9",
+Uuid = "3A64287F-DF14-4A5D-821D-35FD363CE119",
 }
 ,
 }
 ,
-Uuid = "3790F195-07C2-4019-BB38-B7B34162BD5E",
+Uuid = "23727605-A1F7-4E29-B5D0-B703C8D7136B",
 }
 ,
 Version = "10.3",
