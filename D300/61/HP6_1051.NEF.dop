@@ -1,17 +1,27 @@
 Sidecar = {
-Date = "2015-11-30T21:34:53.8867037Z",
+Date = "2015-11-30T22:45:01.4062182Z",
 Software = "DxO OpticsPro",
 Source = {
+CafId = "C1290b",
 Items = {
 {
 Albums = "",
 CreationDate = "2015-02-12T20:57:08.9984158Z",
-ModificationDate = "2015-11-30T21:34:53.7336951Z",
+ModificationDate = "2015-11-30T22:45:01.3682155Z",
 Name = "HP6_1051.NEF",
 OutputItems = {
+{
+CreationDate = "2015-11-30T22:21:57.5798369Z",
+Name = "HP6_1051_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "ED817C1B-E12E-455D-ADC1-191715048245",
+}
+,
+}
+,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -304,6 +314,10 @@ VibrancyIntensity = 26.666666,
 ContrastControlGroupActive = true,
 ColorAccentuationActive = true,
 LightingV2LocalContrastAmount = 23.333334,
+ExposureAutoMode = "CenterWeightedMetering",
+ExposureActive = true,
+LightingV3BlackPoint = -17.54386,
+SelectiveTonalControlActive = true,
 }
 ,
 Version = "10.5",

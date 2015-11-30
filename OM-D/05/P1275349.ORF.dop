@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2015-11-30T21:34:53.8627021Z",
+Date = "2015-11-30T22:21:25.7893514Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C17321b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2015-02-12T20:57:08.5813919Z",
-ModificationDate = "2015-11-30T21:34:53.7296946Z",
+ModificationDate = "2015-11-30T22:21:25.7873508Z",
 Name = "P1275349.ORF",
 OutputItems = {
+{
+CreationDate = "2015-11-30T22:21:17.1758638Z",
+Name = "P1275349_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "D5339DD0-B192-4753-ABF4-DB6BD62E3665",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {

@@ -1,17 +1,27 @@
 Sidecar = {
-Date = "2015-11-30T21:35:25.9615142Z",
+Date = "2015-11-30T23:02:29.5904049Z",
 Software = "DxO OpticsPro",
 Source = {
+CafId = "C1290b",
 Items = {
 {
 Albums = "",
 CreationDate = "2015-02-12T20:57:34.4048899Z",
-ModificationDate = "2015-11-30T21:35:25.6014937Z",
+ModificationDate = "2015-11-30T23:02:29.5894052Z",
 Name = "HP6_3851.NEF",
 OutputItems = {
+{
+CreationDate = "2015-11-30T23:02:25.4531709Z",
+Name = "HP6_3851_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "0044B123-5323-40ED-B4C2-3DFAA6BE5F33",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -305,7 +315,7 @@ WhiteBalanceRawTemperature = 8603.883,
 LightingV3BlackPoint = -15.7894735,
 WhiteBalanceRawTintAuto = false,
 WhiteBalanceRawTemperatureAuto = false,
-ExposureBias = -0.3508772,
+ExposureBias = -0.07017544,
 CropRect = {
 0.086041353642940521,
 0.1001526266336441,

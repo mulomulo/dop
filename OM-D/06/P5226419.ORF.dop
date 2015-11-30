@@ -1,17 +1,27 @@
 Sidecar = {
-Date = "2015-11-30T21:35:09.5915898Z",
+Date = "2015-11-30T23:16:10.8987811Z",
 Software = "DxO OpticsPro",
 Source = {
+CafId = "C17310b",
 Items = {
 {
 Albums = "",
 CreationDate = "2015-02-12T20:57:21.9891698Z",
-ModificationDate = "2015-11-30T21:35:09.5305868Z",
+ModificationDate = "2015-11-30T23:16:10.8867799Z",
 Name = "P5226419.ORF",
 OutputItems = {
+{
+CreationDate = "2015-11-30T22:46:03.3907173Z",
+Name = "P5226419_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "2DF2F348-8660-4368-BF98-A7F263D646F9",
+}
+,
+}
+,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -299,8 +309,10 @@ ExposureActive = false,
 }
 ,
 Overrides = {
-ExposureBias = 0.333333343,
+ExposureBias = 1.17543852,
 ExposureActive = true,
+LightingV3MidTones = 14.0350876,
+SelectiveTonalControlActive = true,
 }
 ,
 Version = "10.5",

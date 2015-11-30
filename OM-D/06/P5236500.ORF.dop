@@ -1,17 +1,27 @@
 Sidecar = {
-Date = "2015-11-30T21:35:14.6628763Z",
+Date = "2015-11-30T23:19:13.5220930Z",
 Software = "DxO OpticsPro",
 Source = {
+CafId = "C17310b",
 Items = {
 {
 Albums = "",
 CreationDate = "2015-11-06T21:31:23.2011895Z",
-ModificationDate = "2015-11-30T21:35:14.6198738Z",
+ModificationDate = "2015-11-30T23:19:13.4790896Z",
 Name = "P5236500.ORF",
 OutputItems = {
+{
+CreationDate = "2015-11-30T22:47:13.2936649Z",
+Name = "P5236500_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "26822EDE-1C7E-4257-860E-E1BA2D97D7DD",
+}
+,
+}
+,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -299,9 +309,30 @@ ExposureActive = true,
 }
 ,
 Overrides = {
-LightingV2LoLightsGain = 7.36842251,
-LightingV2BrightnessAmount = 15.7894735,
-LightingV2BlackPoint = -5.05263042,
+LightingV2LoLightsGain = 0,
+VignettingTypeAuto = true,
+LightingV2BlackPoint = 0,
+ColorAccentuationActive = false,
+VibrancyIntensity = 0,
+ContrastControlGroupActive = false,
+LightingV2LocalContrastAmount = 0,
+CropActive = true,
+CropAuto = true,
+DistortionIntensity = 1,
+DistortionKeepRatio = false,
+ExposureAutoMode = "None",
+ExposureBias = 0.6175439,
+BlurIntensity = 0,
+LightingMode = "V3Slight",
+NoiseChrominance = 100,
+NoiseLuminance = 100,
+NoiseLuminanceContrast = 100,
+SelectiveTonalControlActive = false,
+WhiteBalanceRawPreset = "ManualTemp",
+WhiteBalanceRawTemperature = 5022.78369,
+WhiteBalanceRawTemperatureAuto = false,
+WhiteBalanceRawTint = -26,
+WhiteBalanceRawTintAuto = false,
 }
 ,
 Version = "10.5",

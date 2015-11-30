@@ -1,17 +1,26 @@
 Sidecar = {
-Date = "2015-11-30T21:35:25.8525083Z",
+Date = "2015-11-30T22:59:25.3350002Z",
 Software = "DxO OpticsPro",
 Source = {
 Items = {
 {
 Albums = "",
 CreationDate = "2015-11-06T21:31:43.3353412Z",
-ModificationDate = "2015-11-30T21:35:25.5844934Z",
+ModificationDate = "2015-11-30T22:59:25.3340001Z",
 Name = "IMAG0205.jpg",
 OutputItems = {
+{
+CreationDate = "2015-11-30T22:59:24.8879752Z",
+Name = "IMAG0205_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "FD0C4040-8423-4C6F-BAF3-4AD2A58D217B",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -299,7 +308,7 @@ ExposureActive = false,
 }
 ,
 Overrides = {
-ExposureBias = -0.400000036,
+ExposureBias = 1.05263162,
 ExposureActive = true,
 }
 ,

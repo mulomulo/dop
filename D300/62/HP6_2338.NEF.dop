@@ -1,17 +1,27 @@
 Sidecar = {
-Date = "2015-11-30T21:35:07.5174734Z",
+Date = "2015-11-30T23:02:06.5181017Z",
 Software = "DxO OpticsPro",
 Source = {
+CafId = "C1290b",
 Items = {
 {
 Albums = "",
 CreationDate = "2015-02-12T20:57:20.7710992Z",
-ModificationDate = "2015-11-30T21:35:07.4424686Z",
+ModificationDate = "2015-11-30T23:02:06.5031009Z",
 Name = "HP6_2338.NEF",
 OutputItems = {
+{
+CreationDate = "2015-11-30T22:43:58.3386570Z",
+Name = "HP6_2338_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "D642C2D0-E3C4-4451-AD59-C93A18776CCB",
+}
+,
+}
+,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -303,27 +313,31 @@ SelectiveTonalControlActive = true,
 WhiteBalanceRawPreset = "ManualTemp",
 WhiteBalanceRawTemperature = 6861.971,
 LightingV3MidTones = 17.54386,
-LightingV3BlackPoint = -19.2982464,
+LightingV3BlackPoint = -24.5614071,
 WhiteBalanceRawTintAuto = false,
 ExposureActive = true,
 WhiteBalanceRawTemperatureAuto = false,
-ExposureBias = 0.8245614,
+ExposureBias = 0.7019298,
 CropAuto = false,
 CropRect = {
-0.053525663912296295,
-0.056831419467926025,
+0.00011658668518066406,
+0.056831434369087219,
 0.94294863939285278,
 0.943168580532074,
 }
 ,
 WhiteBalanceRawInputImageColor = {
-0.082271121442317963,
-0.13775953650474548,
-0.11690054088830948,
+0.037069816142320633,
+0.064461193978786469,
+0.056002683937549591,
 }
 ,
-LightingV3Shadows = 10.5263157,
+LightingV3Shadows = -1.75438523,
 WhiteBalanceRawTint = 1,
+ColorAccentuationActive = true,
+VibrancyIntensity = 21.0526314,
+ContrastControlGroupActive = true,
+LightingV2LocalContrastAmount = 24.5614033,
 }
 ,
 Version = "10.5",
