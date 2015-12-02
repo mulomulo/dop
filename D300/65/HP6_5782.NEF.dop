@@ -1,17 +1,27 @@
 Sidecar = {
-Date = "2015-11-30T21:35:58.1323311Z",
+Date = "2015-11-30T23:40:33.1893506Z",
 Software = "DxO OpticsPro",
 Source = {
+CafId = "C1290b",
 Items = {
 {
 Albums = "",
 CreationDate = "2015-11-06T21:32:28.7179392Z",
-ModificationDate = "2015-11-30T21:35:57.9423200Z",
+ModificationDate = "2015-11-30T23:40:33.1883500Z",
 Name = "HP6_5782.NEF",
 OutputItems = {
+{
+CreationDate = "2015-11-30T23:40:27.2040118Z",
+Name = "HP6_5782_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "D73179BB-6D79-434D-A6AC-7C913122A567",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
