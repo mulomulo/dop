@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-04-15T21:26:56.3291971Z",
+Date = "2016-09-24T17:10:24.7340058Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C12742b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-02-25T21:52:44.4208576Z",
-ModificationDate = "2016-04-15T21:26:56.1636754Z",
+ModificationDate = "2016-09-24T17:10:24.7325045Z",
 Name = "P1120180.RW2",
 OutputItems = {
+{
+CreationDate = "2016-09-24T17:10:23.9504050Z",
+Name = "P1120180_DxO_1.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "B4E918A0-4689-45F0-9E58-F8E5822DA231",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -195,7 +204,7 @@ ToneCurveMasterPoints = {
 }
 ,
 BlurDetails = 50,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 WhiteBalanceRawInputImageColor = {
 }
 ,
@@ -214,7 +223,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 AnamorphosisVertical = 0,
 UnsharpMaskIntensityOffset = 0,
-KeystoningMode = "",
+KeystoningMode = "None",
 NoiseChrominance = 50,
 ColorFilterActive = false,
 BlurIntensity = -0.5,
@@ -297,17 +306,30 @@ ArtisticVignettingRoundness = 50,
 WhiteBalanceRawTintAuto = true,
 NoiseRemoveMoireAuto = true,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
 LightingV2LoLightsGain = 11.6666679,
-ExposureBias = 0.1508772,
+ExposureBias = 0.350877225,
 ExposureAutoMode = "None",
 LightingV2BlackPoint = -5.403507,
 LightingV2BrightnessAmount = 16.666666,
 }
 ,
-Version = "10.5",
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -488,7 +510,7 @@ LightingV2BrightnessAmount = 0,
 ContrastEnhancementMidlightIntensity = 0,
 ChannelMixerBlue = 0,
 VignettingIntensityAuto = true,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 VignettedBlurBlendFactor = 100,
 WhiteBalanceRawInputImageColor = {
 }
@@ -529,7 +551,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 AnamorphosisVertical = 0,
 UnsharpMaskIntensityOffset = 0,
-KeystoningMode = "",
+KeystoningMode = "None",
 NoiseChrominance = 50,
 ToneCurveActive = false,
 LightingV3WhitePoint = 0,
@@ -616,6 +638,19 @@ ArtisticVignettingRoundness = 50,
 WhiteBalanceRawTemperatureAuto = true,
 LightingRadius = 5,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
@@ -635,7 +670,7 @@ CropRect = {
 ,
 }
 ,
-Version = "10.5",
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -647,6 +682,6 @@ Uuid = "8F201CBD-2C64-46F0-B169-490E5436B83B",
 Uuid = "628B8E65-0D81-4F3F-8E92-C155E6BA16E5",
 }
 ,
-Version = "10.3",
+Version = "11.0",
 }
 

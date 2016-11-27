@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-04-15T21:26:56.2796913Z",
+Date = "2016-09-24T17:10:23.9529053Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C12742b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-02-25T21:52:44.2397608Z",
-ModificationDate = "2016-04-15T21:26:56.1536741Z",
+ModificationDate = "2016-09-24T17:10:23.9514047Z",
 Name = "P1120173.RW2",
 OutputItems = {
+{
+CreationDate = "2016-09-24T17:10:15.3222984Z",
+Name = "P1120173_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "61FF6FAE-F59D-45B2-B870-0B193C739924",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -195,7 +204,7 @@ ToneCurveMasterPoints = {
 }
 ,
 BlurDetails = 50,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 WhiteBalanceRawInputImageColor = {
 }
 ,
@@ -214,7 +223,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 AnamorphosisVertical = 0,
 UnsharpMaskIntensityOffset = 0,
-KeystoningMode = "",
+KeystoningMode = "None",
 NoiseChrominance = 50,
 ColorFilterActive = false,
 BlurIntensity = -0.5,
@@ -297,18 +306,43 @@ ArtisticVignettingRoundness = 50,
 WhiteBalanceRawTintAuto = true,
 NoiseRemoveMoireAuto = true,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
 LightingV2LoLightsGain = 24.3859653,
-ExposureBias = -0.299824566,
+ExposureBias = -0.166491225,
 ExposureAutoMode = "None",
 LightingV2HiLightsGain = 24.5614033,
 LightingV2BrightnessAmount = 42.1052628,
 LightingV2BlackPoint = -30.5789452,
+ToneCurveMasterPoints = {
+0,
+0,
+0.22,
+0.24,
+0.585,
+0.725,
+1,
+1,
 }
 ,
-Version = "10.5",
+ToneCurveActive = true,
+}
+,
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -320,6 +354,6 @@ Uuid = "1989D347-37EC-4078-BDD4-F52BF8A5016C",
 Uuid = "2C2D78CD-5839-4401-9532-EB4DEC0B5B1B",
 }
 ,
-Version = "10.3",
+Version = "11.0",
 }
 

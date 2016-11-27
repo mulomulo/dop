@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-04-15T21:26:56.3592007Z",
+Date = "2016-09-24T17:10:41.8356980Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C12742b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-02-25T21:52:44.5144264Z",
-ModificationDate = "2016-04-15T21:26:56.1786774Z",
+ModificationDate = "2016-09-24T17:10:41.8341982Z",
 Name = "P1120181.RW2",
 OutputItems = {
+{
+CreationDate = "2016-09-24T17:10:34.9093110Z",
+Name = "P1120181_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "6F54CE8C-FC35-4DA7-98EA-F9599D0C7920",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -195,7 +204,7 @@ ToneCurveMasterPoints = {
 }
 ,
 BlurDetails = 50,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 WhiteBalanceRawInputImageColor = {
 }
 ,
@@ -214,7 +223,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 AnamorphosisVertical = 0,
 UnsharpMaskIntensityOffset = 0,
-KeystoningMode = "",
+KeystoningMode = "None",
 NoiseChrominance = 50,
 ColorFilterActive = false,
 BlurIntensity = -0.5,
@@ -297,28 +306,50 @@ ArtisticVignettingRoundness = 50,
 WhiteBalanceRawTintAuto = true,
 NoiseRemoveMoireAuto = true,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
-LightingV2LoLightsGain = 3.33333468,
-WhiteBalanceRawPreset = "ManualTemp",
-WhiteBalanceRawTemperature = 4296.055,
-WhiteBalanceRawTintAuto = false,
-WhiteBalanceRawTemperatureAuto = false,
+LightingV2LoLightsGain = 11.6666679,
 CropActive = true,
-WhiteBalanceRawTint = -19.2982464,
-LightingV2BrightnessAmount = 19.2982464,
+LightingV2BrightnessAmount = 23.333334,
 LightingV2BlackPoint = 1.00000131,
 CropRect = {
-0.064625754952430725,
-0.16617006063461304,
-0.80045360326766968,
-0.8004535436630249,
+0.089676812291145325,
+0.14948602020740509,
+0.75198811292648315,
+0.75198811292648315,
+}
+,
+VibrancyIntensity = 6.83222628,
+ColorRenderingType = "AgfaAPX25",
+ExposureAutoMode = "None",
+ExposureBias = 0.465087682,
+ToneCurveActive = true,
+ToneCurveMasterPoints = {
+0,
+0,
+0.73,
+0.78,
+1,
+1,
 }
 ,
 }
 ,
-Version = "10.5",
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -330,6 +361,6 @@ Uuid = "980105BB-3889-4D70-AA5B-A5E438DDB3AC",
 Uuid = "8FCE4D29-CDB8-4F35-8AA6-A68FCAF6965D",
 }
 ,
-Version = "10.3",
+Version = "11.0",
 }
 

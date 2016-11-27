@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-04-15T21:26:56.6607389Z",
+Date = "2016-09-24T17:13:50.9148013Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C12742b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-02-25T21:52:47.1454324Z",
-ModificationDate = "2016-04-15T21:26:56.2231833Z",
+ModificationDate = "2016-09-24T17:13:50.9138016Z",
 Name = "P1120520.RW2",
 OutputItems = {
+{
+CreationDate = "2016-09-24T17:13:46.3602172Z",
+Name = "P1120520_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "41435F99-C1B9-4906-95FC-8D9631066354",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -199,7 +208,7 @@ ToneCurveMasterPoints = {
 }
 ,
 BlurDetails = 50,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 ColorIntentAutoActive = true,
 ColorRenderingIntensity = 100,
 LightingV2BrightnessAmount = 0,
@@ -216,7 +225,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 LightingShadowPreservation = 100,
 HighlightToningIntensity = 100,
-KeystoningMode = "",
+KeystoningMode = "None",
 KeystoningBlendingIntensity = 100,
 LightingV2Intensity = 50,
 NoiseChrominance = 50,
@@ -297,14 +306,49 @@ ArtisticVignettingRoundness = 50,
 VignettedBlurMode = "Vignetting",
 LightingRadius = 5,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
 LightingV2LoLightsGain = 3.33333468,
 LightingV2BlackPoint = 1.00000131,
+ToneCurveMasterPoints = {
+0,
+0,
+0.19,
+0.24,
+0.565,
+0.71,
+1,
+1,
 }
 ,
-Version = "10.5",
+ToneCurveActive = true,
+KeystoningHorizon = -0.633464754,
+KeystoningHorizonActive = true,
+CropActive = true,
+CropRect = {
+0.046297036111354828,
+0.024160861968994141,
+0.92168331146240234,
+0.91341263055801392,
+}
+,
+}
+,
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -316,6 +360,6 @@ Uuid = "F6116D3C-1C86-41A3-8C74-0E7E39E2611B",
 Uuid = "00BA4B12-2DBA-4DC1-BDEB-C53DF4C3E6B7",
 }
 ,
-Version = "10.3",
+Version = "11.0",
 }
 

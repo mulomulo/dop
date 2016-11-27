@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-04-15T21:26:56.9577773Z",
+Date = "2016-09-24T17:19:18.7761519Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C12742b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-02-25T21:52:51.4198478Z",
-ModificationDate = "2016-04-15T21:26:56.2411854Z",
+ModificationDate = "2016-09-24T17:19:18.7746498Z",
 Name = "P1120915.RW2",
 OutputItems = {
+{
+CreationDate = "2016-09-24T17:19:12.9218993Z",
+Name = "P1120915_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "B145F2D4-ED69-4E46-B153-6DADAAE33A3E",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -199,7 +208,7 @@ ToneCurveMasterPoints = {
 }
 ,
 BlurDetails = 50,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 ColorIntentAutoActive = true,
 ColorRenderingIntensity = 100,
 LightingV2BrightnessAmount = 0,
@@ -216,7 +225,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 LightingShadowPreservation = 100,
 HighlightToningIntensity = 100,
-KeystoningMode = "",
+KeystoningMode = "None",
 KeystoningBlendingIntensity = 100,
 LightingV2Intensity = 50,
 NoiseChrominance = 50,
@@ -297,14 +306,47 @@ ArtisticVignettingRoundness = 50,
 VignettedBlurMode = "Vignetting",
 LightingRadius = 5,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
 LightingV2LoLightsGain = 3.33333468,
 LightingV2BlackPoint = 1.00000131,
+ToneCurveMasterPoints = {
+0,
+0,
+0.285,
+0.305,
+0.62,
+0.71,
+1,
+1,
 }
 ,
-Version = "10.5",
+ToneCurveActive = true,
+CropActive = true,
+CropRect = {
+0.033911623060703278,
+0.17443794012069702,
+0.73580449819564819,
+0.73580443859100342,
+}
+,
+}
+,
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -316,6 +358,6 @@ Uuid = "B76F8DFF-0047-42D3-B5C1-EFBF0315FB8E",
 Uuid = "88D70001-13F1-4D93-81BB-414B3B663508",
 }
 ,
-Version = "10.3",
+Version = "11.0",
 }
 

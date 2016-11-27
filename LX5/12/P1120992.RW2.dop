@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-04-15T21:26:57.0237853Z",
+Date = "2016-09-24T17:20:24.9391337Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C12742b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-02-25T21:52:52.3913360Z",
-ModificationDate = "2016-04-15T21:26:56.2436857Z",
+ModificationDate = "2016-09-24T17:20:24.9376327Z",
 Name = "P1120992.RW2",
 OutputItems = {
+{
+CreationDate = "2016-09-24T17:20:19.8629830Z",
+Name = "P1120992_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "F632E219-8624-4863-94CB-98134C363377",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -199,7 +208,7 @@ ToneCurveMasterPoints = {
 }
 ,
 BlurDetails = 50,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 ColorIntentAutoActive = true,
 ColorRenderingIntensity = 100,
 LightingV2BrightnessAmount = 0,
@@ -216,7 +225,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 LightingShadowPreservation = 100,
 HighlightToningIntensity = 100,
-KeystoningMode = "",
+KeystoningMode = "None",
 KeystoningBlendingIntensity = 100,
 LightingV2Intensity = 50,
 NoiseChrominance = 50,
@@ -297,14 +306,37 @@ ArtisticVignettingRoundness = 50,
 VignettedBlurMode = "Vignetting",
 LightingRadius = 5,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
 LightingV2LoLightsGain = 3.33333468,
 LightingV2BlackPoint = 1.00000131,
+ExposureAutoMode = "None",
+ExposureBias = -0.0999999642,
+CropActive = true,
+CropRect = {
+0.10646684467792511,
+0.007816423662006855,
+0.84148269891738892,
+0.84148269891738892,
 }
 ,
-Version = "10.5",
+}
+,
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -316,6 +348,6 @@ Uuid = "EB7BC621-C444-45E0-84FB-ABE24C0F8084",
 Uuid = "8AB4A9D8-35C9-4BEE-A84C-1E14C0ED6437",
 }
 ,
-Version = "10.3",
+Version = "11.0",
 }
 

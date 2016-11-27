@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-04-15T21:26:56.5427247Z",
+Date = "2016-09-24T17:12:00.9366930Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C12742b",
@@ -7,12 +7,21 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-02-25T21:52:45.7320815Z",
-ModificationDate = "2016-04-15T21:26:56.2196833Z",
+ModificationDate = "2016-09-24T17:12:00.9356929Z",
 Name = "P1120394.RW2",
 OutputItems = {
+{
+CreationDate = "2016-09-24T17:11:53.4147276Z",
+Name = "P1120394_DxO.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 1,
+Uuid = "46A23CBE-88C9-4A38-9F9A-34B39EBB87AA",
+}
+,
+}
+,
+ProcessingStatus = 3,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -195,7 +204,7 @@ ToneCurveMasterPoints = {
 }
 ,
 BlurDetails = 50,
-LightingV2LocalContrastAmount = 11.1111107,
+LightingV2LocalContrastAmount = 9,
 WhiteBalanceRawInputImageColor = {
 }
 ,
@@ -214,7 +223,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 AnamorphosisVertical = 0,
 UnsharpMaskIntensityOffset = 0,
-KeystoningMode = "",
+KeystoningMode = "None",
 NoiseChrominance = 50,
 ColorFilterActive = false,
 BlurIntensity = -0.5,
@@ -297,6 +306,19 @@ ArtisticVignettingRoundness = 50,
 WhiteBalanceRawTintAuto = true,
 NoiseRemoveMoireAuto = true,
 ExposureActive = true,
+RedEyeCorrectionActive = false,
+RedEyeLocateMode = "DetectedEyes",
+RedEyeRegions = {
+}
+,
+RedEyeEllipses = {
+}
+,
+LightingV3RegionPriorityMode = "None",
+LightingPriorityRegions = {
+}
+,
+MicroContrastAuto = false,
 }
 ,
 Overrides = {
@@ -305,9 +327,19 @@ ExposureBias = 0.181228071,
 LightingV2BrightnessAmount = 19.2982464,
 ExposureAutoMode = "None",
 LightingV2BlackPoint = -9.526315,
+ToneCurveMasterPoints = {
+0,
+0,
+0.655,
+0.725,
+1,
+1,
 }
 ,
-Version = "10.5",
+ToneCurveActive = true,
+}
+,
+Version = "11.0",
 }
 ,
 ShouldProcess = 2,
@@ -319,6 +351,6 @@ Uuid = "C79853ED-D8A2-49FE-89FB-B93E26EAFE2E",
 Uuid = "4E1FF654-7BD5-4FF6-975A-4231A7150D85",
 }
 ,
-Version = "10.3",
+Version = "11.0",
 }
 
