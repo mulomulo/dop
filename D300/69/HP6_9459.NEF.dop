@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-09-01T18:13:53.2507783Z",
+Date = "2016-11-29T22:46:54.5510317Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C1290b",
@@ -7,7 +7,7 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-08-30T19:44:11.7916352Z",
-ModificationDate = "2016-09-01T18:13:53.2477775Z",
+ModificationDate = "2016-11-29T22:46:54.5500312Z",
 Name = "HP6_9459.NEF",
 OutputItems = {
 {
@@ -26,6 +26,24 @@ OutputFormat = {
 }
 ,
 Uuid = "92525016-A3D9-435D-8CE8-5E1AA253FDE0",
+}
+,
+{
+CreationDate = "2016-11-29T22:15:26.2809460Z",
+Name = "HP6_9459_DxO.jpg",
+OutputFormat = {
+}
+,
+Uuid = "86D8E5C9-C16D-42FC-99C8-5F917324A45D",
+}
+,
+{
+CreationDate = "2016-11-29T22:46:45.5688138Z",
+Name = "HP6_9459_DxO.jpg",
+OutputFormat = {
+}
+,
+Uuid = "0AF98718-B954-46CF-9154-86271B991E69",
 }
 ,
 }
@@ -247,7 +265,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 100,
 LightingShadowPreservation = 100,
 HighlightToningIntensity = 100,
-KeystoningMode = "None",
+KeystoningMode = "Auto",
 KeystoningBlendingIntensity = 100,
 LightingV2Intensity = 50,
 NoiseChrominance = 100,
@@ -328,15 +346,63 @@ ArtisticVignettingRoundness = 50,
 VignettedBlurMode = "Vignetting",
 LightingRadius = 5,
 ExposureActive = false,
+TiltShiftActive = false,
+TiltShiftGradient1 = {
+BlurRadius = 40,
+StartPoint = {
+0.5,
+0.7,
+}
+,
+EndPoint = {
+0.5,
+0.9,
+}
+,
+}
+,
+TiltShiftGradient2 = {
+BlurRadius = 40,
+StartPoint = {
+0.5,
+0.3,
+}
+,
+EndPoint = {
+0.5,
+0.1,
+}
+,
+}
+,
+TiltShiftBlurShapeID = "Circular_medium",
+OPTiltShiftShouldSynchronizeIntensities = true,
+OPTiltShiftShouldSynchronizeLines = true,
+KeystoningHorizonAuto = true,
+KeystoningAutoMode = "Full",
 }
 ,
 Overrides = {
-LightingV3Shadows = 11.666666,
+LightingV3Shadows = 30,
 HazeRemovalActive = true,
 SelectiveTonalControlActive = true,
+CropRatio = 1.33333337,
+CropAuto = false,
+CropRect = {
+0.0081625748425722122,
+0,
+0.885883092880249,
+1,
 }
 ,
-Version = "11.0",
+LightingV3MidTones = 13.333333,
+VibrancyIntensity = 15,
+ColorAccentuationActive = true,
+ExposureBias = 0.15,
+ExposureActive = true,
+}
+,
+Version = "11.3",
 }
 ,
 ShouldProcess = 2,
@@ -348,6 +414,6 @@ Uuid = "19EA02D2-9691-4593-BEEF-5724F42EBE21",
 Uuid = "26774385-ECF7-49FC-AE32-617428CCA05A",
 }
 ,
-Version = "11.0",
+Version = "11.3",
 }
 

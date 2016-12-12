@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-09-01T18:10:49.1968078Z",
+Date = "2016-11-29T22:16:54.3262926Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C1290b",
@@ -7,7 +7,7 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-08-30T19:44:10.7434927Z",
-ModificationDate = "2016-09-01T18:10:49.1953080Z",
+ModificationDate = "2016-11-29T22:16:54.3172933Z",
 Name = "HP6_9436.NEF",
 OutputItems = {
 {
@@ -26,6 +26,15 @@ OutputFormat = {
 }
 ,
 Uuid = "E2C60646-4140-45F0-B5EA-65CEB4E600E3",
+}
+,
+{
+CreationDate = "2016-11-29T22:16:29.7819259Z",
+Name = "HP6_9436_DxO.jpg",
+OutputFormat = {
+}
+,
+Uuid = "C8E12151-AD40-401B-8F49-BAB3896132F4",
 }
 ,
 }
@@ -247,7 +256,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 100,
 LightingShadowPreservation = 100,
 HighlightToningIntensity = 100,
-KeystoningMode = "None",
+KeystoningMode = "Auto",
 KeystoningBlendingIntensity = 100,
 LightingV2Intensity = 50,
 NoiseChrominance = 100,
@@ -328,13 +337,63 @@ ArtisticVignettingRoundness = 50,
 VignettedBlurMode = "Vignetting",
 LightingRadius = 5,
 ExposureActive = false,
+TiltShiftActive = false,
+TiltShiftGradient1 = {
+BlurRadius = 40,
+StartPoint = {
+0.5,
+0.7,
+}
+,
+EndPoint = {
+0.5,
+0.9,
+}
+,
+}
+,
+TiltShiftGradient2 = {
+BlurRadius = 40,
+StartPoint = {
+0.5,
+0.3,
+}
+,
+EndPoint = {
+0.5,
+0.1,
+}
+,
+}
+,
+TiltShiftBlurShapeID = "Circular_medium",
+OPTiltShiftShouldSynchronizeIntensities = true,
+OPTiltShiftShouldSynchronizeLines = true,
+KeystoningHorizonAuto = true,
+KeystoningAutoMode = "Full",
 }
 ,
 Overrides = {
 HazeRemovalActive = true,
+CropRatio = 1.33333337,
+CropAuto = false,
+CropRect = {
+0.049557451158761978,
+0,
+0.86303031444549561,
+1,
 }
 ,
-Version = "11.0",
+WhiteBalanceRawTint = -0.000141572673,
+WhiteBalanceRawTemperatureAuto = false,
+WhiteBalanceRawTintAuto = false,
+WhiteBalanceRawPreset = "ManualTemp",
+WhiteBalanceRawTemperature = 6679.58154,
+VibrancyIntensity = 10,
+ColorAccentuationActive = true,
+}
+,
+Version = "11.3",
 }
 ,
 ShouldProcess = 2,
@@ -346,6 +405,6 @@ Uuid = "70105670-3CE3-48C6-9CF3-1D76EDA404BA",
 Uuid = "B74EAD5E-494F-43F6-A477-08807AF6B3FD",
 }
 ,
-Version = "11.0",
+Version = "11.3",
 }
 

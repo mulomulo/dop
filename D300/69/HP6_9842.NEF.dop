@@ -1,31 +1,22 @@
 Sidecar = {
-Date = "2016-11-29T22:45:54.5367511Z",
+Date = "2016-11-29T22:12:54.0974390Z",
 Software = "DxO OpticsPro",
 Source = {
-CafId = "C18031b",
+CafId = "C1290b",
 Items = {
 {
 Albums = "",
-CreationDate = "2016-11-27T20:22:40.6342011Z",
-ModificationDate = "2016-11-29T22:45:54.5347501Z",
-Name = "DSC04493.ARW",
+CreationDate = "2016-11-27T20:01:35.1504660Z",
+ModificationDate = "2016-11-29T22:12:54.0964393Z",
+Name = "HP6_9842.NEF",
 OutputItems = {
 {
-CreationDate = "2016-11-27T20:37:49.5632276Z",
-Name = "DSC04493_DxO.jpg",
+CreationDate = "2016-11-29T22:12:03.5286300Z",
+Name = "HP6_9842_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "4045926E-AEEE-4210-B412-CF02001A2341",
-}
-,
-{
-CreationDate = "2016-11-29T22:45:49.9081025Z",
-Name = "DSC04493_DxO.jpg",
-OutputFormat = {
-}
-,
-Uuid = "3A355A00-F113-43A9-AB5D-81AA924300F5",
+Uuid = "FD65F659-6C57-4DBF-B0C7-0462D378B5FB",
 }
 ,
 }
@@ -365,33 +356,23 @@ ExposureActive = false,
 }
 ,
 Overrides = {
-CropRatio = 1.33333337,
-CropAuto = false,
-CropRect = {
-0.12228819727897644,
-0,
-0.873720109462738,
-0.99999994039535522,
-}
-,
-VibrancyIntensity = 15,
-ColorAccentuationActive = true,
-ExposureBias = 0.450000048,
+HazeRemovalActive = true,
+ExposureBias = 0.6,
 ExposureActive = true,
-LightingV3Shadows = 10,
-SelectiveTonalControlActive = true,
+VibrancyIntensity = 11.666667,
+ColorAccentuationActive = true,
 }
 ,
 Version = "11.3",
 }
 ,
 ShouldProcess = 2,
-Uuid = "A70DFE8F-44A4-4DAF-9D9E-92A3639C504B",
+Uuid = "0C561389-FDC4-4D45-ABB1-202722E68F59",
 }
 ,
 }
 ,
-Uuid = "B1110BF8-EEEC-48F0-AB8B-3489612F2772",
+Uuid = "E0B0DDE5-D5C6-44C8-89FA-C4D4FFCDF4AA",
 }
 ,
 Version = "11.3",
