@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2016-07-31T20:48:36.1831294Z",
+Date = "2016-12-20T18:12:35.6044363Z",
 Software = "DxO OpticsPro",
 Source = {
 CafId = "C17310b",
@@ -7,7 +7,7 @@ Items = {
 {
 Albums = "",
 CreationDate = "2016-03-22T20:28:03.7303853Z",
-ModificationDate = "2016-07-31T20:48:35.2039963Z",
+ModificationDate = "2016-12-20T18:12:35.4534133Z",
 Name = "P3204404.ORF",
 OutputItems = {
 {
@@ -21,7 +21,7 @@ Uuid = "82A138B5-3AEE-45D6-B3DF-C48B8C71BAD1",
 ,
 }
 ,
-ProcessingStatus = 0,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -225,7 +225,7 @@ HSLMagentaLuminance = 0,
 NoiseLuminance = 70,
 LightingShadowPreservation = 100,
 HighlightToningIntensity = 100,
-KeystoningMode = "None",
+KeystoningMode = "Auto",
 KeystoningBlendingIntensity = 100,
 LightingV2Intensity = 50,
 NoiseChrominance = 50,
@@ -319,6 +319,40 @@ LightingPriorityRegions = {
 }
 ,
 MicroContrastAuto = false,
+TiltShiftActive = false,
+TiltShiftGradient1 = {
+BlurRadius = 40,
+StartPoint = {
+0.5,
+0.7,
+}
+,
+EndPoint = {
+0.5,
+0.9,
+}
+,
+}
+,
+TiltShiftGradient2 = {
+BlurRadius = 40,
+StartPoint = {
+0.5,
+0.3,
+}
+,
+EndPoint = {
+0.5,
+0.1,
+}
+,
+}
+,
+TiltShiftBlurShapeID = "Circular_medium",
+OPTiltShiftShouldSynchronizeIntensities = true,
+OPTiltShiftShouldSynchronizeLines = true,
+KeystoningHorizonAuto = true,
+KeystoningAutoMode = "Full",
 }
 ,
 Overrides = {
@@ -571,9 +605,10 @@ CropRect = {
 0.94600343704223633,
 }
 ,
+RedEyeCorrectionActive = true,
 }
 ,
-Version = "11.0",
+Version = "11.3",
 }
 ,
 ShouldProcess = 2,
@@ -585,6 +620,6 @@ Uuid = "FFBA54F2-046C-4561-BA11-639222E3FA04",
 Uuid = "2D3249F0-6203-415E-80B9-28146465AE2A",
 }
 ,
-Version = "11.0",
+Version = "11.3",
 }
 
