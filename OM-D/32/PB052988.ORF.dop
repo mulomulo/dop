@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-28T00:27:40.0033161Z",
+Date = "2017-11-28T23:22:08.0055027Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17310b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2015-11-12T08:58:34.2569415Z",
-ModificationDate = "2017-11-28T00:27:40.0018163Z",
+ModificationDate = "2017-11-28T23:22:08.0025027Z",
 Name = "PB052988.ORF",
 OutputItems = {
 {
-CreationDate = "2017-11-28T00:27:33.5525020Z",
+CreationDate = "2017-11-28T23:21:54.9301622Z",
 Name = "PB052988_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "F1381209-019D-4C7B-9BA5-7B3701FEA025",
+Uuid = "A336C66D-B1A3-4986-AF48-B3D43810B129",
 }
 ,
 }
@@ -349,12 +349,12 @@ CropRect = {
 }
 ,
 ContrastControlGroupActive = true,
-VibrancyIntensity = 20.833334,
+VibrancyIntensity = 40.8333321,
 KeystoningActive = true,
 CropAuto = false,
 CropRatio = 1,
 LightingV3MidTones = 22.8070183,
-LightingV3BlackPoint = -19.2982464,
+LightingV3BlackPoint = -30.833334,
 KeystoningMode = "Rectangle",
 LightingV3Shadows = 5.263158,
 LightingV2LocalContrastAmount = 19,
@@ -375,9 +375,15 @@ WhiteBalanceRawTemperatureAuto = false,
 WhiteBalanceRawTintAuto = false,
 WhiteBalanceRawPreset = "ManualTemp",
 WhiteBalanceRawTemperature = 7345.65869,
-ExposureBias = 0.233333334,
+ExposureBias = 0.799999952,
 ExposureActive = true,
-ColorModeSaturation = 10.833333,
+ColorModeSaturation = 20.833334,
+WhiteBalanceRawInputImageColor = {
+0.129640594124794,
+0.31960335373878479,
+0.25291705131530762,
+}
+,
 }
 ,
 Version = "12.0",

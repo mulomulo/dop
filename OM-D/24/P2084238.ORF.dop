@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-27T19:35:50.1619063Z",
+Date = "2017-11-28T22:47:35.8525572Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17310b",
@@ -7,7 +7,7 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-24T22:55:50.9407212Z",
-ModificationDate = "2017-11-27T19:35:47.1935263Z",
+ModificationDate = "2017-11-28T22:47:35.8485571Z",
 Name = "P2084238.ORF",
 OutputItems = {
 {
@@ -21,7 +21,7 @@ Uuid = "50AADBD3-BF7F-43FA-922A-59242564F926",
 ,
 }
 ,
-ProcessingStatus = 3,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {

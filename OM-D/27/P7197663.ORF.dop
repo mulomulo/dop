@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-27T23:46:10.9845635Z",
+Date = "2017-11-28T23:07:36.5610885Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17321b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-27T19:37:21.0867097Z",
-ModificationDate = "2017-11-27T23:46:10.9665611Z",
+ModificationDate = "2017-11-28T23:07:36.5590879Z",
 Name = "P7197663.ORF",
 OutputItems = {
 {
-CreationDate = "2017-11-27T23:46:09.9189282Z",
+CreationDate = "2017-11-28T23:07:10.8049613Z",
 Name = "P7197663_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "2BF58352-1F2E-48F0-930C-2E3DED3CCEC8",
+Uuid = "89DF0ED3-5259-4A7E-B36C-FE8CB068A1C4",
 }
 ,
 }
@@ -349,8 +349,17 @@ CropRect = {
 1,
 }
 ,
-LightingV3BlackPoint = -9.166667,
+LightingV3BlackPoint = -12.5,
 SelectiveTonalControlActive = true,
+WhiteBalanceRawTint = -5.787926,
+WhiteBalanceRawTemperatureAuto = false,
+WhiteBalanceRawTintAuto = false,
+WhiteBalanceRawPreset = "ManualTemp",
+WhiteBalanceRawTemperature = 7545.36475,
+ExposureBias = 0.5,
+ExposureActive = true,
+VibrancyIntensity = 14.166667,
+ColorAccentuationActive = true,
 }
 ,
 Version = "12.0",

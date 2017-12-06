@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-28T00:16:39.0255134Z",
+Date = "2017-11-28T23:16:28.2238921Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17310b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-27T22:00:40.3079001Z",
-ModificationDate = "2017-11-28T00:16:39.0245129Z",
+ModificationDate = "2017-11-28T23:16:28.2218922Z",
 Name = "PA032128.ORF",
 OutputItems = {
 {
-CreationDate = "2017-11-28T00:16:35.5695774Z",
+CreationDate = "2017-11-28T23:16:04.5820694Z",
 Name = "PA032128_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "68DB9E24-586D-427E-BC4D-E2E42012E220",
+Uuid = "23A5D177-6C14-45A1-AFBD-713B5009F080",
 }
 ,
 }
@@ -353,9 +353,14 @@ WhiteBalanceRawTint = -3.76586866,
 WhiteBalanceRawTemperatureAuto = false,
 WhiteBalanceRawTintAuto = false,
 WhiteBalanceRawPreset = "ManualTemp",
-WhiteBalanceRawTemperature = 6088.135,
-ExposureBias = 0.350000024,
+WhiteBalanceRawTemperature = 7961.213,
+ExposureBias = 0.6333333,
 ExposureActive = true,
+LightingV3Shadows = 12.5,
+SelectiveTonalControlActive = true,
+LightingV3BlackPoint = -19.166666,
+VibrancyIntensity = 12.5,
+ColorAccentuationActive = true,
 }
 ,
 Version = "12.0",

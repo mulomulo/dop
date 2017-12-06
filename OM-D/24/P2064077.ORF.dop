@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-27T19:35:49.9033746Z",
+Date = "2017-11-28T22:36:35.3892803Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17310b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-24T22:55:49.1169911Z",
-ModificationDate = "2017-11-27T19:35:47.1055151Z",
+ModificationDate = "2017-11-28T22:36:35.3872804Z",
 Name = "P2064077.ORF",
 OutputItems = {
 {
-CreationDate = "2017-11-26T00:38:16.8238768Z",
+CreationDate = "2017-11-28T22:36:02.0473912Z",
 Name = "P2064077_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "FFDB2D5C-6661-462B-89EA-62D09957626C",
+Uuid = "9C75C977-1AED-485E-8560-4BA73C5D45B1",
 }
 ,
 }
@@ -341,21 +341,25 @@ OPTiltShiftShouldSynchronizeLines = true,
 ,
 Overrides = {
 WhiteBalanceRawPreset = "ManualTemp",
-WhiteBalanceRawTemperature = 4182.06934,
+WhiteBalanceRawTemperature = 4227,
 WhiteBalanceRawTintAuto = false,
 CropRatio = 1,
 CropAuto = false,
 CropRect = {
-0.17014947533607483,
-0.12831868231296539,
+0.1778634637594223,
+0.12249791622161865,
 0.61572104692459106,
 0.83628314733505249,
 }
 ,
 ExposureActive = true,
-ExposureBias = 0.2166666,
+ExposureBias = 0.9166666,
 WhiteBalanceRawTemperatureAuto = false,
-WhiteBalanceRawTint = -55.50198,
+WhiteBalanceRawTint = -62.50198,
+LightingV3BlackPoint = -19.166666,
+SelectiveTonalControlActive = true,
+VibrancyIntensity = 5.83333349,
+ColorAccentuationActive = true,
 }
 ,
 Version = "12.0",

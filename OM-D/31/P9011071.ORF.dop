@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-28T00:08:39.6538490Z",
+Date = "2017-11-28T23:12:36.7004483Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17310b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2015-09-08T19:39:47.9767945Z",
-ModificationDate = "2017-11-28T00:08:39.6388471Z",
+ModificationDate = "2017-11-28T23:12:36.6984477Z",
 Name = "P9011071.ORF",
 OutputItems = {
 {
-CreationDate = "2017-11-28T00:08:29.1875275Z",
+CreationDate = "2017-11-28T23:12:27.4151914Z",
 Name = "P9011071_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "31CD0013-E22C-4ACE-B018-D5725AB27141",
+Uuid = "133DFC89-BB6B-48C6-B0D5-94C71C73D31B",
 }
 ,
 }
@@ -340,14 +340,14 @@ LocalParameters = {
 }
 ,
 Overrides = {
-ExposureBias = 0.3,
+ExposureBias = 0.73333323,
 WhiteBalanceRawPreset = "ManualTemp",
 WhiteBalanceRawTintAuto = false,
 CropRect = {
-0.23515711724758148,
-0,
-0.75,
-1,
+0.1591966450214386,
+0.018626319244503975,
+0.72206050157547,
+0.96274733543396,
 }
 ,
 WhiteBalanceRawTint = -5,
@@ -355,7 +355,7 @@ WhiteBalanceRawTemperatureAuto = false,
 ExposureActive = true,
 LightingV3BlackPoint = -17.3333321,
 CropActive = true,
-WhiteBalanceRawTemperature = 7545.36475,
+WhiteBalanceRawTemperature = 8399.97949,
 CropRatio = 1,
 }
 ,

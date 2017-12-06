@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-28T00:17:35.0470890Z",
+Date = "2017-11-28T23:22:37.2495225Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17310b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2015-10-04T17:15:57.1708344Z",
-ModificationDate = "2017-11-28T00:17:35.0335873Z",
+ModificationDate = "2017-11-28T23:22:37.2485220Z",
 Name = "PA042192.ORF",
 OutputItems = {
 {
-CreationDate = "2017-11-28T00:17:29.2868616Z",
+CreationDate = "2017-11-28T23:22:18.3703317Z",
 Name = "PA042192_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "92C22F53-7606-4BF2-B172-8A74328F9A03",
+Uuid = "F85B92F3-1E9B-4D54-856E-8C3F8BFFFF45",
 }
 ,
 }
@@ -340,7 +340,7 @@ LocalParameters = {
 }
 ,
 Overrides = {
-ExposureBias = 0.366666675,
+ExposureBias = 0.7,
 CropRect = {
 0.02644198015332222,
 0.070509009063243866,
@@ -358,7 +358,7 @@ LightingV3Shadows = 7.36842251,
 LightingV3Highlights = 38.5964928,
 CropActive = true,
 LightingV2LocalContrastAmount = 26,
-ColorModeContrast = 7.017544,
+ColorModeContrast = 25.833334,
 ColorModeSaturation = 21.0526314,
 KeystoningPoints = {
 0.0063218781724572182,
@@ -369,6 +369,14 @@ KeystoningPoints = {
 0.041255291551351547,
 0.0063153202645480633,
 0.029137024655938148,
+}
+,
+VibrancyIntensity = 34.1666679,
+WhiteBalanceRawPreset = "ManualTemp",
+WhiteBalanceRawInputImageColor = {
+0.0633767694234848,
+0.13968321681022644,
+0.096867784857749939,
 }
 ,
 }

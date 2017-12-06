@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-27T19:35:53.3728255Z",
+Date = "2017-11-28T22:58:19.1102178Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C1290b",
@@ -7,7 +7,7 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-25T10:18:59.2510908Z",
-ModificationDate = "2017-11-27T19:35:47.7495968Z",
+ModificationDate = "2017-11-28T22:58:19.0992175Z",
 Name = "HP6_8508.NEF",
 OutputItems = {
 {
@@ -19,9 +19,18 @@ OutputFormat = {
 Uuid = "968A3930-3A15-4EEE-96D3-84D14A4736DF",
 }
 ,
+{
+CreationDate = "2017-11-28T22:26:26.6041558Z",
+Name = "HP6_8508_DxO-1.jpg",
+OutputFormat = {
 }
 ,
-ProcessingStatus = 3,
+Uuid = "1981ECA7-647A-48A9-87C8-6212C8D55568",
+}
+,
+}
+,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -355,6 +364,11 @@ CropRect = {
 0.9032103419303894,
 }
 ,
+WhiteBalanceRawTint = 5.99985838,
+WhiteBalanceRawTemperatureAuto = false,
+WhiteBalanceRawTintAuto = false,
+WhiteBalanceRawPreset = "ManualTemp",
+WhiteBalanceRawTemperature = 6032.27539,
 }
 ,
 Version = "12.0",

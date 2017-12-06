@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-28T00:17:01.9929149Z",
+Date = "2017-11-28T23:14:36.8498987Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17310b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2015-10-03T22:22:05.3745892Z",
-ModificationDate = "2017-11-28T00:17:01.9909146Z",
+ModificationDate = "2017-11-28T23:14:36.8453985Z",
 Name = "PA032140.ORF",
 OutputItems = {
 {
-CreationDate = "2017-11-28T00:16:53.7953792Z",
+CreationDate = "2017-11-28T23:14:02.9329901Z",
 Name = "PA032140_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "FE7E8895-8A58-4855-AC44-9044720DF3DD",
+Uuid = "1C040C19-A97E-4AF1-9558-5C93BB1AC639",
 }
 ,
 }
@@ -344,12 +344,14 @@ LightingV3Shadows = 17.8947372,
 CropRatio = 1,
 CropActive = true,
 CropRect = {
-0.027939477935433388,
+0.040162988007068634,
 0,
-0.75,
-1,
+0.70197904109954834,
+0.93597209453582764,
 }
 ,
+ExposureBias = 0.566666663,
+ExposureActive = true,
 }
 ,
 Version = "12.0",

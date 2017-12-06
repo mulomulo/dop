@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-27T19:35:52.8397461Z",
+Date = "2017-11-28T22:54:36.1894546Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C17321b",
@@ -7,7 +7,7 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-25T10:18:54.6274967Z",
-ModificationDate = "2017-11-27T19:35:47.7165925Z",
+ModificationDate = "2017-11-28T22:54:36.1854544Z",
 Name = "P5045493.ORF",
 OutputItems = {
 {
@@ -21,7 +21,7 @@ Uuid = "EF584350-87C3-4E82-BA5D-227B4BBA2867",
 ,
 }
 ,
-ProcessingStatus = 3,
+ProcessingStatus = 6,
 Rank = 0,
 Rotation = 0,
 Settings = {
@@ -340,7 +340,7 @@ ExposureActive = false,
 }
 ,
 Overrides = {
-WhiteBalanceRawTemperature = 7750.50049,
+WhiteBalanceRawTemperature = 11374.1143,
 CropRatio = 1,
 CropAuto = false,
 WhiteBalanceRawPreset = "ManualTemp",
@@ -348,12 +348,21 @@ WhiteBalanceRawTemperatureAuto = false,
 WhiteBalanceRawTintAuto = false,
 WhiteBalanceRawTint = -5.787926,
 CropRect = {
-0.2497829794883728,
-0.25670754909515381,
-0.55763065814971924,
-0.74329245090484619,
+0.20235955715179443,
+0,
+0.75043404102325439,
+1,
 }
 ,
+ColorAccentuationActive = true,
+VibrancyIntensity = 24.166666,
+ContrastControlGroupActive = true,
+ColorModeContrast = 7.5,
+ExposureActive = true,
+ExposureBias = 0.599999964,
+SelectiveTonalControlActive = true,
+LightingV3Highlights = -5.83333349,
+LightingV3BlackPoint = -27.5,
 }
 ,
 Version = "12.0",

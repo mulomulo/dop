@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-27T19:35:53.3918273Z",
+Date = "2017-11-28T22:58:36.4079329Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C1290b",
@@ -7,16 +7,16 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-25T10:18:59.4526158Z",
-ModificationDate = "2017-11-27T19:35:47.7495968Z",
+ModificationDate = "2017-11-28T22:58:36.4034323Z",
 Name = "HP6_8525.NEF",
 OutputItems = {
 {
-CreationDate = "2017-11-26T01:11:07.1221223Z",
+CreationDate = "2017-11-28T22:58:32.1703978Z",
 Name = "HP6_8525_DxO.jpg",
 OutputFormat = {
 }
 ,
-Uuid = "40B6E531-2C4E-4309-9B9E-16FB5676208D",
+Uuid = "27CF4D3B-9061-48ED-9D63-711E7600AA58",
 }
 ,
 }
@@ -343,12 +343,25 @@ Overrides = {
 CropRatio = 1,
 CropAuto = false,
 CropRect = {
-0.18253964185714722,
-0.0454075001180172,
-0.51735371351242065,
-0.77893710136413574,
+0.12774340808391571,
+0.034653138369321823,
+0.5308457612991333,
+0.79925090074539185,
 }
 ,
+ColorAccentuationActive = true,
+VibrancyIntensity = 15.833333,
+ContrastControlGroupActive = true,
+ColorModeContrast = 15.833333,
+ExposureActive = true,
+ExposureBias = 0.05,
+SelectiveTonalControlActive = true,
+LightingV3BlackPoint = -14.166667,
+WhiteBalanceRawPreset = "ManualTemp",
+WhiteBalanceRawTemperature = 6056.5957,
+WhiteBalanceRawTemperatureAuto = false,
+WhiteBalanceRawTint = -0.000141572673,
+WhiteBalanceRawTintAuto = false,
 }
 ,
 Version = "12.0",
