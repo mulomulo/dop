@@ -1,5 +1,5 @@
 Sidecar = {
-Date = "2017-11-02T19:13:11.7672336Z",
+Date = "2018-10-28T23:03:00.1899901Z",
 Software = "DxO PhotoLab",
 Source = {
 CafId = "C18031b",
@@ -7,7 +7,7 @@ Items = {
 {
 Albums = "",
 CreationDate = "2017-11-02T19:01:43.0355663Z",
-ModificationDate = "2017-11-02T19:13:11.7642328Z",
+ModificationDate = "2018-10-28T23:02:59.3090012Z",
 Name = "DSC00111.ARW",
 OutputItems = {
 {
@@ -351,8 +351,14 @@ LocalParameters = {
 {
 Id = "28afb4d258274058a66471739728db75",
 Geometry = {
-Paths = {
+Type = "Brush",
+AutoMaskEnabled = true,
+FeatherIntensity = 0,
+Size = 251.92493227157047,
+Strokes = {
 {
+Opacity = 100,
+Path = {
 0.28421023488044739,
 0.62753468751907349,
 0.28421023488044739,
@@ -3335,12 +3341,11 @@ Paths = {
 0.31376734375953674,
 }
 ,
+Flow = 100,
 }
 ,
-Type = "Brush",
-AutoMaskEnabled = true,
-FeatherIntensity = 0,
-Size = 251.92493227157047,
+}
+,
 }
 ,
 Corrections = {
@@ -3365,7 +3370,7 @@ CropRect = {
 ,
 }
 ,
-Version = "12.0",
+Version = "12.3",
 }
 ,
 ShouldProcess = 2,
